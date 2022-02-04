@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83977f8b6df6c30adc4e486bd2644625",
+    "revision": "f16d1301323bb525643ec06d1c7e942b",
     "url": "/soutialNET/index.html"
   },
   {
@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soutialNET/static/css/2.44309f2b.chunk.css"
   },
   {
-    "revision": "f9c952c551b8c920b200",
+    "revision": "75bdbf4625c3f61c84dd",
     "url": "/soutialNET/static/css/3.4e49c2be.chunk.css"
   },
   {
-    "revision": "b3a60f2c1de08abe6565",
+    "revision": "d71fba7b6f8bb522433b",
     "url": "/soutialNET/static/css/main.0f665940.chunk.css"
   },
   {
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soutialNET/static/js/2.f8be4da5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9c952c551b8c920b200",
-    "url": "/soutialNET/static/js/3.8c4d556d.chunk.js"
+    "revision": "75bdbf4625c3f61c84dd",
+    "url": "/soutialNET/static/js/3.ea414671.chunk.js"
   },
   {
     "revision": "630038500fd5c45e9396",
     "url": "/soutialNET/static/js/4.58316c6e.chunk.js"
   },
   {
-    "revision": "b3a60f2c1de08abe6565",
-    "url": "/soutialNET/static/js/main.823d7bce.chunk.js"
+    "revision": "d71fba7b6f8bb522433b",
+    "url": "/soutialNET/static/js/main.12224f9b.chunk.js"
   },
   {
-    "revision": "8b4b2296f467692d2317",
-    "url": "/soutialNET/static/js/runtime-main.d1be8046.js"
+    "revision": "6da2f725588a3af172ef",
+    "url": "/soutialNET/static/js/runtime-main.05fdd3fb.js"
   },
   {
     "revision": "6c3daf6085e46eea1698990ad3578119",
