@@ -61,5 +61,6 @@ export const LoginPage: React.FC = () => {
     return <div>
         <h1>Login</h1>
         <LoginReduxForm onSubmit={onSubmit} captchaUrl={captchaUrl}/>
+        <div className={style.test}>Данные для теста:<p>Email: free@samuraijs.com</p><p>pass: free</p></div>
     </div>
 }
