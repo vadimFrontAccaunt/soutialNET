@@ -1,0 +1,56 @@
+.count {
+	background-color: darkorange;
+	border-radius: 50%;
+	padding: 1px 6px 2px 6px;
+	font-size: 12px;
+	font-weight: 900;
+	margin: 0 0 0 7px;
+}
+.wrapper__Active {
+	display: flex;
+	height: 80px;
+	border-radius: 8px;
+	border-bottom: 1px solid grey;
+	margin: 0 0 2px 0;
+	color: grey;
+	letter-spacing: 0.1em;
+	justify-content: space-between;
+	font-size: 16px;
+}
+.wrapper__Active img {
+	border-radius: 50%;
+	height: 70px;
+	width: 70px;
+	margin: 5px 0 5px 5px;
+}
+
+.wrapper__Active {
+	background-color: lightgrey;
+	color: black;
+}
+.name {
+	margin: 30px 0 0 -380px;
+}
+.wrapper__time {
+	margin: 10px 50px 5px 0;
+}
+.date__user {
+	margin: 10px 0 0 0;
+}
+.wrapper__notActive{
+	display: flex;
+	height: 80px;
+	border-radius: 8px;
+	border-bottom: 1px solid grey;
+	margin: 0 0 2px 0;
+	color: grey;
+	letter-spacing: 0.1em;
+	justify-content: space-between;
+	font-size: 16px;
+}
+.wrapper__notActive img {
+	border-radius: 50%;
+	height: 70px;
+	width: 70px;
+	margin: 5px 0 5px 5px;
+}

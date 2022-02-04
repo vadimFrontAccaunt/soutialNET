@@ -1,0 +1,112 @@
+.wrapper {
+	border: 3px solid rgba(16, 14, 160, 0.232);
+	width: 100%;
+	height: 700px;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.wrapper__oneMes {
+	border: 1px solid rgba(0, 0, 0, 0.336);
+	width: 70%;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 15px;
+	display: flex;
+	justify-content: space-between;
+}
+.contt {
+	border-left: 1px solid rgba(0, 0, 0, 0.336);
+	font-size: 11px;
+	background-color: rgba(128, 128, 128, 0.164);
+	margin: -5px;
+	border-radius: 0px 15px 15px 0px;
+	padding: 5px;
+}
+.mes {
+	width: 84%;
+}
+.MYwrapper__oneMes {
+	border: 1px solid rgba(0, 0, 0, 0.336);
+	width: 70%;
+	margin: 5px 5px 5px 29.5%;
+	padding: 5px;
+	border-radius: 15px;
+	display: flex;
+	justify-content: space-between;
+}
+.MYmes {
+	width: 84%;
+}
+.MYcontt {
+	border-right: 1px solid rgba(0, 0, 0, 0.336);
+	font-size: 11px;
+	background-color: rgba(46, 75, 170, 0.301);
+	margin: -5px;
+	border-radius: 15px 0px 0px 15px;
+	padding: 5px;
+}
+.field {
+	width: 90%;
+	height: 50px;
+	border: 3px solid rgba(46, 75, 170, 0.301);
+	border-radius: 15px;
+	margin: 10px;
+}
+
+.but {
+	position: relative;
+	display: inline-block;
+	font-size: 90%;
+	font-weight: 700;
+	color: rgb(209, 209, 217);
+	text-decoration: none;
+	text-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+	padding: 0.5em 1em;
+	outline: none;
+	border-radius: 3px;
+	background: linear-gradient(rgb(110, 112, 120), rgb(81, 81, 86))
+		rgb(110, 112, 120);
+	box-shadow: 0 1px rgba(255, 255, 255, 0.2) inset, 0 3px 5px rgba(0, 1, 6, 0.5),
+		0 0 1px 1px rgba(0, 1, 6, 0.2);
+	transition: 0.2s ease-in-out;
+}
+.but:hover:not(:active) {
+	background: linear-gradient(rgb(126, 126, 134), rgb(70, 71, 76))
+		rgb(126, 126, 134);
+}
+.but:active {
+	top: 1px;
+	background: linear-gradient(rgb(76, 77, 82), rgb(56, 57, 62)) rgb(76, 77, 82);
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.5) inset,
+		0 2px 3px rgba(0, 0, 0, 0.5) inset, 0 1px 1px rgba(255, 255, 255, 0.1);
+}
+.con {
+	height: 50px;
+	width: 300px;
+	border-radius: 30px;
+	background-color: rgba(105, 105, 105, 0.562);
+	position: absolute;
+	top: 0px;
+	left: 50px;
+	margin: 7px 0 0 0;
+	text-align: center;
+}
+.con img {
+	height: 45px;
+	border-radius: 50%;
+	margin: 2.5px 5px;
+}
+.mainSpan {
+	font-size: 18px;
+	font-weight: bold;
+	color: rgb(133, 115, 235);
+	margin: 0px 0 0 15px;
+}
+.thecSpan {
+	color: white;
+	font-size: 16px;
+	letter-spacing: 0.1em;
+	margin: 0 0 0 5px;
+}

@@ -1,0 +1,120 @@
+.descriptionBlock {
+	padding: 10px;
+	position: relative;
+}
+
+.mainPhoto {
+	max-width: 250px;
+	height: 300px;
+}
+.chooseFileBox {
+	position: absolute;
+	top: 280px;
+	left: 20px;
+	font-size: 10px;
+}
+.wrapper {
+	display: flex;
+}
+.button_edit {
+	margin: 5px 0 0 200px;
+	position: absolute;
+    top: 320px;
+	display: inline-block;
+	font-size: 90%;
+	font-weight: 700;
+	color: rgb(209, 209, 217);
+	text-decoration: none;
+	text-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+	padding: 0.5em 1em;
+	outline: none;
+	border-radius: 3px;
+	background: linear-gradient(rgb(110, 112, 120), rgb(81, 81, 86))
+		rgb(110, 112, 120);
+	box-shadow: 0 1px rgba(255, 255, 255, 0.2) inset, 0 3px 5px rgba(0, 1, 6, 0.5),
+		0 0 1px 1px rgba(0, 1, 6, 0.2);
+	transition: 0.2s ease-in-out;
+}
+.button_edit:hover:not(:active) {
+	background: linear-gradient(rgb(126, 126, 134), rgb(70, 71, 76))
+		rgb(126, 126, 134);
+}
+.button_edit:active {
+	top: 320px;
+	background: linear-gradient(rgb(76, 77, 82), rgb(56, 57, 62)) rgb(76, 77, 82);
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.5) inset,
+		0 2px 3px rgba(0, 0, 0, 0.5) inset, 0 1px 1px rgba(255, 255, 255, 0.1);
+}
+.button_showContacts{
+	position: relative;
+	display: inline-block;
+	font-size: 90%;
+	font-weight: 700;
+	color: rgb(209, 209, 217);
+	text-decoration: none;
+	text-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+	padding: 0.5em 1em;
+	outline: none;
+	border-radius: 3px;
+	background: linear-gradient(rgb(110, 112, 120), rgb(81, 81, 86))
+		rgb(110, 112, 120);
+	box-shadow: 0 1px rgba(255, 255, 255, 0.2) inset, 0 3px 5px rgba(0, 1, 6, 0.5),
+		0 0 1px 1px rgba(0, 1, 6, 0.2);
+	transition: 0.2s ease-in-out;
+}
+.button_showContacts:hover:not(:active) {
+	background: linear-gradient(rgb(126, 126, 134), rgb(70, 71, 76))
+		rgb(126, 126, 134);
+}
+.button_showContacts:active {
+	top: 1px;
+	background: linear-gradient(rgb(76, 77, 82), rgb(56, 57, 62)) rgb(76, 77, 82);
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.5) inset,
+		0 2px 3px rgba(0, 0, 0, 0.5) inset, 0 1px 1px rgba(255, 255, 255, 0.1);
+}
+.status{
+    position:absolute;
+    top: 30px;
+    left:300px;
+    font-size: 20px;
+}
+.status b {
+    text-transform: uppercase;
+}
+.job {
+    display: flex;
+    margin: 10px 0 0 0;
+}
+.job input {
+    margin: 0 0 0 10px;
+    height: 20px;
+    width: 20px;
+}
+.chatBut {
+	width: 115px;
+	position: relative;
+	display: inline-block;
+	font-size: 90%;
+	font-weight: 700;
+	color: rgb(209, 209, 217);
+	text-decoration: none;
+	text-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+	padding: 0.5em 1em;
+	outline: none;
+	border-radius: 3px;
+	background: linear-gradient(rgb(110, 112, 120), rgb(81, 81, 86))
+		rgb(110, 112, 120);
+	box-shadow: 0 1px rgba(255, 255, 255, 0.2) inset, 0 3px 5px rgba(0, 1, 6, 0.5),
+		0 0 1px 1px rgba(0, 1, 6, 0.2);
+	transition: 0.2s ease-in-out;
+}
+.chatBut:hover:not(:active) {
+	background: linear-gradient(rgb(126, 126, 134), rgb(70, 71, 76))
+		rgb(126, 126, 134);
+}
+.chatBut:active {
+	top: 1px;
+	background: linear-gradient(rgb(76, 77, 82), rgb(56, 57, 62)) rgb(76, 77, 82);
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.5) inset,
+		0 2px 3px rgba(0, 0, 0, 0.5) inset, 0 1px 1px rgba(255, 255, 255, 0.1);
+}
