@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c59728a00d25745a932d5f328ad0f1a5",
+    "revision": "83977f8b6df6c30adc4e486bd2644625",
     "url": "/soutialNET/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soutialNET/static/css/3.4e49c2be.chunk.css"
   },
   {
-    "revision": "7fa781cd9967b2b2e9cc",
+    "revision": "b3a60f2c1de08abe6565",
     "url": "/soutialNET/static/css/main.0f665940.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soutialNET/static/js/4.58316c6e.chunk.js"
   },
   {
-    "revision": "7fa781cd9967b2b2e9cc",
-    "url": "/soutialNET/static/js/main.61fb1c7e.chunk.js"
+    "revision": "b3a60f2c1de08abe6565",
+    "url": "/soutialNET/static/js/main.823d7bce.chunk.js"
   },
   {
     "revision": "8b4b2296f467692d2317",
