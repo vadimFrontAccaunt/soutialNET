@@ -13,7 +13,7 @@ const ListItem:React.FC<ListPropsType> = (props) => {
 	const date = props.addedAt
 
 	
-	if(props.id === 21599) {
+	if(props.id === 21599 || 1079) {
 		return(<div className={s.MYwrapper__oneMes}>
 		<div className={s.MYcontt}>
 			<div className={s.MYdate}>{date.substring(0,10)}</div>
