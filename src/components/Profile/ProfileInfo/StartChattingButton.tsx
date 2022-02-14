@@ -18,7 +18,7 @@ const StartChat: React.FC<PropsTypeButton> = (props:any) => {
         console.log(userId)
     dispatch(startDialogWithUser(userId))
 }
-	if(props.userId != 21599 || 1079) {
+	if((props.id === 21599) || (props.id === 1079)) {
     return(<NavLink to={'/dialogs'}><button className={s.chatBut}  onClick={() => startChat(props.userId)}>Start Chatting</button></NavLink>)
 	}
 	return(<></>)
